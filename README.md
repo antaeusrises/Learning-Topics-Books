@@ -1,9 +1,10 @@
 # Learning-Topics-Books
 
 ## Design a Life / Know-Find Thyself
-- Graham Weaver
+- The Untethered Soul - 
+- Don't believe everrything you think
 - YCombinator essays - the days are long but the years are short
-- Eckhart Tolle
+- The Power of Now - Eckhart Tolle
 - Man's search for meaning
 - 
 
@@ -14,8 +15,6 @@
 - Charlie Munger - biases
 - Daniel Kahneman
 - Poor Charlie's Almanack
-  
-## Business/MBA
 
 ## Tech Startup
 - Zero to One -
@@ -24,9 +23,8 @@
 - Tar pit ideas
 - Areas - clean tech, healthcare, 
 
-## Investments 
-
 ## Entrep
+- E-myth Revisited - M Gerber
 - Go It Alone – Bruce Judson 
 - The Lean Startup – Eric Ries
 - Street Smarts – Norm Brodsky & Bo Burlingham
@@ -51,10 +49,12 @@
 - Crucial Conversations – Kerry Patterson et al
 - The 48 Laws of Power – Robert Greene
 
-
 - Bargaining For Advantage – G. Richard Shell 
 
-- First, Break All The Rules – Marcus Buckingham & Curt Coffman 
+- High Output Management
+- First, Break All The Rules – Marcus Buckingham & Curt Coffman
+- Good to great
+- The Effective Executive - Peter F. Drucker
 
 - 12: The Elements of Great Managing – Rodd Wagner & James Harter
 - Growing Great Employees – Erika Andersen
@@ -75,7 +75,6 @@
 
 - Indispensable – Joe Calloway 
 
-
 ## Finance & Accounting
 
 - Financial Intelligence for Entrepreneurs – Karen Berman & Joe Knight 
@@ -85,8 +84,32 @@
 - How to Read a Financial Report – John A. Tracy
 - Venture Deals – Brad Feld & Jason Mendelson
 
-  
+
+## Self growth
+- Mindset - Carol Dweck
+- Think and grow rich - napolean hill
+- Exceptional living - jim rohn
+- Psycho-cybernetics -
+
+- 
+## Spirituality
+- Autobiography of a Yogi - Paramahansa Yogada
+- Zen Mind, Beginner's Mind - Shunryu Suzuki
+
+## Investing
+- Warren Buffett - letters, BRK letters, snowball
+- Peter Lynch
+- Phil Fischer
+- Tweedy Browne - what has worked
+- Margin of Safety - Walter Schloss
+- 100 to 1 in the stock market
+- Li Lu
+- Nick Sleep letters
+- Mohnish Pabrai/ Guy Spier
+
+
 ## Reading lists
 - https://personalmba.com/best-business-books/
 - https://lennysbooks.com/
 - https://tim.blog/2017/11/18/booklist/
+- https://www.goodbooks.io/top-100/non-fiction
