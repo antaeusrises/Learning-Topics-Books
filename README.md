@@ -106,6 +106,8 @@
 - Li Lu
 - Nick Sleep letters
 - Mohnish Pabrai/ Guy Spier
+- 100 Baggers: Stocks That Return 100-to-1 and How To Find Them - Christopher W Mayer (Author)
+
 
 
 ## Reading lists
