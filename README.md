@@ -5,8 +5,27 @@
 - Don't believe everrything you think
 - YCombinator essays - the days are long but the years are short
 - The Power of Now - Eckhart Tolle
-- Man's search for meaning
-- 
+- Man's search for meaning - Victor Frankl
+
+
+
+## Managing your psychology + Self growth
+- Mindset - Carol Dweck
+- Think and grow rich - napolean hill
+- Exceptional living - jim rohn
+- Psycho-cybernetics -
+- Emotional Intelligence
+- The inner game of tennis
+- Mastery - George Leonard
+- Awaken the Giant Within - 
+
+  
+## Spirituality
+- Autobiography of a Yogi - Paramahansa Yogada
+- Zen Mind, Beginner's Mind - Shunryu Suzuki
+- Bhagvad Gita
+- Meditations - Marcus Auerlius
+- Seneca and the Stoics
 
 ## Worldly knowledge / People skills
 - Robert Greene books
@@ -90,21 +109,6 @@
 - How to Read a Financial Report – John A. Tracy
 - Venture Deals – Brad Feld & Jason Mendelson
 
-
-## Managing your psychology + Self growth
-- Mindset - Carol Dweck
-- Think and grow rich - napolean hill
-- Exceptional living - jim rohn
-- Psycho-cybernetics -
-- Emotional Intelligence
-- The inner game of tennis
-- Mastery - George Leonard
-- Awaken the Giant Within - 
-
-  
-## Spirituality
-- Autobiography of a Yogi - Paramahansa Yogada
-- Zen Mind, Beginner's Mind - Shunryu Suzuki
 
 ## Investing
 - Warren Buffett - letters, BRK letters, snowball
