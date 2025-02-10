@@ -75,23 +75,33 @@
 
 - Indispensable – Joe Calloway 
 
+## Creativity
+- The War of Art - Steven Pressfield - It identifies the enemy—what I call Resistance with a capital “R,” i.e. fear, self-doubt, procrastination, perfectionism, all the forms of self-sabotage that stop us from doing our work and realizing our dreams. Start here. Everything else proceeds from this.
+- The Creative Act - Rick Rubin
+
+## Interpersonal Communication
+- Connect: Building Exceptional Relationships with Family, Friends, and Colleagues - David Bradford Ph.D. (Author), Carole Robin Ph.D. (Author)
+- Non violent communication - Marshall Goldberg
+
 ## Finance & Accounting
-
 - Financial Intelligence for Entrepreneurs – Karen Berman & Joe Knight 
-
 - Simple Numbers, Straight Talk, Big Profits – Greg Crabtree
 - The 1% Windfall – Rafi Mohammed
 - How to Read a Financial Report – John A. Tracy
 - Venture Deals – Brad Feld & Jason Mendelson
 
 
-## Self growth
+## Managing your psychology + Self growth
 - Mindset - Carol Dweck
 - Think and grow rich - napolean hill
 - Exceptional living - jim rohn
 - Psycho-cybernetics -
+- Emotional Intelligence
+- The inner game of tennis
+- Mastery - George Leonard
+- Awaken the Giant Within - 
 
-- 
+  
 ## Spirituality
 - Autobiography of a Yogi - Paramahansa Yogada
 - Zen Mind, Beginner's Mind - Shunryu Suzuki
@@ -106,7 +116,7 @@
 - Li Lu
 - Nick Sleep letters
 - Mohnish Pabrai/ Guy Spier
-- 100 Baggers: Stocks That Return 100-to-1 and How To Find Them - Christopher W Mayer (Author)
+- 100 Baggers: Stocks That Return 100-to-1 and How To Find Them - Christopher W Mayer
 
 
 
