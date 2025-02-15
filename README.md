@@ -26,6 +26,8 @@
 - Bhagvad Gita
 - Meditations - Marcus Auerlius
 - Seneca and the Stoics
+- The Alchemist by Paulo Coelho
+- Sn Tzu - the art of war
 
 ## Worldly knowledge / People skills
 - Robert Greene books
@@ -67,6 +69,7 @@
 - How to Win Friends and Influence People – Dale Carnegie
 - Crucial Conversations – Kerry Patterson et al
 - The 48 Laws of Power – Robert Greene
+- When I Stop Talking, You'll Know I'm Dead: Useful Stories from a Persuasive Man by Jerry Weintraub
 
 - Bargaining For Advantage – G. Richard Shell 
 
@@ -78,7 +81,8 @@
 - 12: The Elements of Great Managing – Rodd Wagner & James Harter
 - Growing Great Employees – Erika Andersen
 - The Essential Drucker – Peter Drucker
-- The Halo Effect – Phil Rosenzweig 
+- The Halo Effect – Phil Rosenzweig
+- The five dysfunctions of a team - Lenconi
 
 ## Marketing
 - 22 immutable laws of marketing
@@ -94,9 +98,10 @@
 
 - Indispensable – Joe Calloway 
 
-## Creativity
+## Creativity and Innovation
 - The War of Art - Steven Pressfield - It identifies the enemy—what I call Resistance with a capital “R,” i.e. fear, self-doubt, procrastination, perfectionism, all the forms of self-sabotage that stop us from doing our work and realizing our dreams. Start here. Everything else proceeds from this.
 - The Creative Act - Rick Rubin
+- The innovator's dilemma 
 
 ## Interpersonal Communication
 - Connect: Building Exceptional Relationships with Family, Friends, and Colleagues - David Bradford Ph.D. (Author), Carole Robin Ph.D. (Author)
@@ -123,9 +128,17 @@
 - 100 Baggers: Stocks That Return 100-to-1 and How To Find Them - Christopher W Mayer
 
 
+## Others/Thinking/Psychology
+- Fooled by Randomness - Nassim Nicholas Taleb
+- The Selfish Gene by Richard Dawkins
+- The Culture Code: The Secrets of Highly Successful Groups Hardcover – Daniel Coyle
+- High Growth Handbook - Elad Gil
+- Predictably Irrational - Dan Ariely
+- Thinking fast and slow
 
 ## Reading lists
 - https://personalmba.com/best-business-books/
 - https://lennysbooks.com/
 - https://tim.blog/2017/11/18/booklist/
+- https://www.goodbooks.io/people/patrick-collison
 - https://www.goodbooks.io/top-100/non-fiction
